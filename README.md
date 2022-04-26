@@ -1,5 +1,5 @@
 # Dynamic-Traffic-Management-System
-Dynamic Traffic system overcomes the issue of static traffic light system according to real time environment.
+
 Abstract:
 Traffic congestion is becoming a serious problem with a large number of cars on the roads.It not only add time and stress to drivers' lives, but they also increase fuel consumption and pollution. Congestion in traffic can be caused by a variety of factors such as a lack of capacity, unregulated demand, long red light delays, and so on.Traffic lights being one of the critical factors affecting traffic flow.Conventional traffic system like Automating control system is creating  a serious problem with large number of vehicles on the road. With a lot of vehicles waiting in queue to be proceded is increasing. And traditional system cannot manage it.
 
