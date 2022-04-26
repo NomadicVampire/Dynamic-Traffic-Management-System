@@ -21,9 +21,7 @@ Electronic Sensors : Placing loop detectors or proximity sensors on the road is 
 
 Many cites facing a major problem of traffic congestion.Megacities(Mumbai,Hyderabad,Bengaluru,Delhi,etc) are the ones who are most afflicted by it, despite the fact that it appears to be present everywhere. Its ever-increasing nature necessitates real-time knowledge of road traffic density for improved signal control and traffic management. One of the most important variables affecting traffic flow is the traffic controller. The present traffic management systems are mostly static, meaning they don't respond to the needs of the traffic flow.
 
-Exeution:
 
-![demo-yolov3-dlib-window-rec](https://user-images.githubusercontent.com/72182471/165356087-e952ae94-a89d-4462-b5b5-54130e9969f0.gif)
 
 # Technology:
 
