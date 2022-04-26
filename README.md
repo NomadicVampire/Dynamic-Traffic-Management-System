@@ -37,7 +37,16 @@ some text
 ![yolo net](https://user-images.githubusercontent.com/72182471/165361893-fd2fff2d-7f61-4c8c-95f3-7fe828a018ef.png)
 
 
-steps
+VolvV3Counter
+Working:
+
+1.Get a real time image from the traffic catching camera
+2.Scan and determine the traffic density
+3.Input this data to the Time Allocation module
+4.The output will be the time slots for each lane accordingly.
+
+
+Conclusion:
 
 
 ![seq](https://user-images.githubusercontent.com/72182471/165362571-06875fea-9fe9-4075-a74e-871503363649.png)
