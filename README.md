@@ -32,3 +32,9 @@ You only look once (YOLO) is a state-of-the-art, real-time object detection syst
 
 ![yolo](https://user-images.githubusercontent.com/72182471/165355290-b8be17d9-3704-429e-8de0-64b079d6df29.jpg)
 
+
+some text
+![yolo net](https://user-images.githubusercontent.com/72182471/165361893-fd2fff2d-7f61-4c8c-95f3-7fe828a018ef.png)
+
+
+
