@@ -36,14 +36,16 @@ some text
 
 VolvV3Counter
 Working:
-
-1.Get a real time image from the traffic catching camera
-2.Scan and determine the traffic density
-3.Input this data to the Time Allocation module
-4.The output will be the time slots for each lane accordingly.
+Get a real time image from the traffic catching camera
+Scan and determine the traffic density
+Input this data to the Time Allocation module
+The output will be the time slots for each lane accordingly.
 
 
 Conclusion:
+This is a project that counts automobiles in a video using the YoloV3 neural network. The detection happens every  x frames, where x is a variable.The dlib library is also sometimes used to track previously recognised cars.
+
+Furthermore, you can edit confidence detection level, number of frames to count vehicle as detected before removing it from trackable list and the maximum distance from centroid (see Centroid Tracker class), number of frames to skip detection (and only use tracking) and the whether to use the original video size as annotations output or the YoloV3 320x320 size.
 
 
 ![seq](https://user-images.githubusercontent.com/72182471/165362571-06875fea-9fe9-4075-a74e-871503363649.png)
