@@ -31,7 +31,7 @@ This indicates that a single algorithm run is used to forecast the entire image.
 
 ![WhatsApp Image 2022-04-27 at 12 33 46 AM](https://user-images.githubusercontent.com/72182471/165373716-6cb51d07-94bf-47ad-9087-5d702adb3014.jpeg)
 
-some text
+
 ![yolo net](https://user-images.githubusercontent.com/72182471/165361893-fd2fff2d-7f61-4c8c-95f3-7fe828a018ef.png)
 
 
@@ -52,4 +52,5 @@ Furthermore, you can edit confidence detection level, number of frames to count 
 ![seq](https://user-images.githubusercontent.com/72182471/165362571-06875fea-9fe9-4075-a74e-871503363649.png)
 
 
+Download the YOLO model from here: https://drive.google.com/drive/folders/1XaxVeDwKMTkE7jk9omMGmKVYea01P9XV?usp=sharing
 
