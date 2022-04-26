@@ -29,7 +29,7 @@ The term 'You Only Look Once' is abbreviated as YOLO. This is an algorithm for d
 Convolutional neural networks (CNN) are used in the YOLO method to recognise objects in real time. To detect objects, the approach just takes a single forward propagation through a neural network, as the name suggests.
 This indicates that a single algorithm run is used to forecast the entire image. The CNN is used to forecast multiple bounding boxes and class probabilities at the same time.
 
-
+![WhatsApp Image 2022-04-27 at 12 33 46 AM](https://user-images.githubusercontent.com/72182471/165373716-6cb51d07-94bf-47ad-9087-5d702adb3014.jpeg)
 
 some text
 ![yolo net](https://user-images.githubusercontent.com/72182471/165361893-fd2fff2d-7f61-4c8c-95f3-7fe828a018ef.png)
