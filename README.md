@@ -28,4 +28,5 @@ Technology:
 You only look once (YOLO) is a state-of-the-art, real-time object detection system YOLO, a new approach to object detection. Prior work on object detection repurposes classifiers to perform detection. Instead, we frame object detection as a regression problem to spatially separated bounding boxes and associated class probabilities. A single neural network predicts bounding boxes and class probabilities directly from full images in one evaluation. Since the whole detection pipeline is a single network, it can be optimized end-to-end directly on detection performance.The object detection task consists in determining the location on the image where certain objects are present, as well as classifying those objects. Previous methods for this, like R-CNN and its variations, used a pipeline to perform this task in multiple steps. This can be slow to run and also hard to optimize, because each individual component must be trained separately. YOLO, does it all with a single neural network
 
 
+![yolo](https://user-images.githubusercontent.com/72182471/165355290-b8be17d9-3704-429e-8de0-64b079d6df29.jpg)
 
