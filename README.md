@@ -35,7 +35,6 @@ This indicates that a single algorithm run is used to forecast the entire image.
 ![yolo net](https://user-images.githubusercontent.com/72182471/165361893-fd2fff2d-7f61-4c8c-95f3-7fe828a018ef.png)
 
 
-VolvV3Counter
 # Working:
 Get a real time image from the traffic catching camera
 Scan and determine the traffic density
