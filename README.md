@@ -43,9 +43,7 @@ The output will be the time slots for each lane accordingly.
 
 
 # Conclusion:
-This is a project that counts automobiles in a video using the YoloV3 neural network. The detection happens every  x frames, where x is a variable.The dlib library is also sometimes used to track previously recognised cars.
-
-Furthermore, you can edit confidence detection level, number of frames to count vehicle as detected before removing it from trackable list and the maximum distance from centroid (see Centroid Tracker class), number of frames to skip detection (and only use tracking) and the whether to use the original video size as annotations output or the YoloV3 320x320 size.
+This is a project that counts automobiles in the images using the YoloV3 neural network and it will acts as an input parameter which will help to change the traffic signal timer fixed static value to dynamic value depending upon the situation and Hence our goal of changing the static time period of traffic signals to dynamic time period of signal so that the regulation of traffic signal is better in the city.
 
 
 ![seq](https://user-images.githubusercontent.com/72182471/165362571-06875fea-9fe9-4075-a74e-871503363649.png)
